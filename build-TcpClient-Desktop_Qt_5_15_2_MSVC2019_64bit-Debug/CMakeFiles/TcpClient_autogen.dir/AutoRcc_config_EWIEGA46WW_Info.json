@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TcpClient_autogen",
+	"CMAKE_BINARY_DIR" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/PostGraduate/c++/NetDisk/TcpClient",
+	"CMAKE_SOURCE_DIR" : "E:/PostGraduate/c++/NetDisk/TcpClient",
+	"INCLUDE_DIR" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TcpClient_autogen/include",
+	"INPUTS" : [ "E:/PostGraduate/c++/NetDisk/TcpClient/client.config" ],
+	"LOCK_FILE" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/TcpClient_autogen.dir/AutoRcc_config_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "config" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_config.cpp",
+	"RCC_EXECUTABLE" : "E:/qt/5.15.2/msvc2019_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/TcpClient_autogen.dir/AutoRcc_config_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/PostGraduate/c++/NetDisk/TcpClient/config.qrc",
+	"VERBOSITY" : 0
+}

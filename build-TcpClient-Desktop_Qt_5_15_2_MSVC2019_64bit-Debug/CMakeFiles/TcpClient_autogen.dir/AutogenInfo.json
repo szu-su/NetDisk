@@ -1,0 +1,182 @@
+{
+	"BUILD_DIR" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TcpClient_autogen",
+	"CMAKE_BINARY_DIR" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/PostGraduate/c++/NetDisk/TcpClient",
+	"CMAKE_EXECUTABLE" : "E:/qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/PostGraduate/c++/NetDisk/TcpClient/CMakeLists.txt",
+		"E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/3.24.2/CMakeSystem.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake",
+		"E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/MSVC.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake",
+		"E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeRCInformation.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseArguments.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeParseArguments.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"E:/qt/5.15.2/msvc2019_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"E:/qt/Tools/CMake_64/share/cmake-3.24/Modules/GNUInstallDirs.cmake",
+		"E:/PostGraduate/c++/NetDisk/TcpClient/config.qrc",
+		"E:/PostGraduate/c++/NetDisk/TcpClient/image.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/PostGraduate/c++/NetDisk/TcpClient",
+	"DEP_FILE" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TcpClient_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "TcpClient_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"E:/PostGraduate/c++/NetDisk/TcpClient/book.h",
+			"MU",
+			"EWIEGA46WW/moc_book.cpp",
+			null
+		],
+		[
+			"E:/PostGraduate/c++/NetDisk/TcpClient/friend.h",
+			"MU",
+			"EWIEGA46WW/moc_friend.cpp",
+			null
+		],
+		[
+			"E:/PostGraduate/c++/NetDisk/TcpClient/online.h",
+			"MU",
+			"EWIEGA46WW/moc_online.cpp",
+			null
+		],
+		[
+			"E:/PostGraduate/c++/NetDisk/TcpClient/opewidget.h",
+			"MU",
+			"EWIEGA46WW/moc_opewidget.cpp",
+			null
+		],
+		[
+			"E:/PostGraduate/c++/NetDisk/TcpClient/privatechat.h",
+			"MU",
+			"EWIEGA46WW/moc_privatechat.cpp",
+			null
+		],
+		[
+			"E:/PostGraduate/c++/NetDisk/TcpClient/protocol.h",
+			"MU",
+			"EWIEGA46WW/moc_protocol.cpp",
+			null
+		],
+		[
+			"E:/PostGraduate/c++/NetDisk/TcpClient/tcpclient.h",
+			"MU",
+			"EWIEGA46WW/moc_tcpclient.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TcpClient_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TcpClient_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_WIDGETS_LIB",
+		"WIN32"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/qt/5.15.2/msvc2019_64/include",
+		"E:/qt/5.15.2/msvc2019_64/include/QtWidgets",
+		"E:/qt/5.15.2/msvc2019_64/include/QtGui",
+		"E:/qt/5.15.2/msvc2019_64/include/QtANGLE",
+		"E:/qt/5.15.2/msvc2019_64/include/QtCore",
+		"E:/qt/5.15.2/msvc2019_64/mkspecs/win32-msvc",
+		"E:/qt/5.15.2/msvc2019_64/include/QtNetwork"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/TcpClient_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "E:/qt/5.15.2/msvc2019_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "E:/qt/5.15.2/msvc2019_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "E:/PostGraduate/c++/NetDisk/build-TcpClient-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/TcpClient_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "E:/PostGraduate/c++/NetDisk/TcpClient/book.cpp", "MU", null ],
+		[ "E:/PostGraduate/c++/NetDisk/TcpClient/friend.cpp", "MU", null ],
+		[ "E:/PostGraduate/c++/NetDisk/TcpClient/main.cpp", "MU", null ],
+		[ "E:/PostGraduate/c++/NetDisk/TcpClient/online.cpp", "MU", null ],
+		[ "E:/PostGraduate/c++/NetDisk/TcpClient/opewidget.cpp", "MU", null ],
+		[ "E:/PostGraduate/c++/NetDisk/TcpClient/privatechat.cpp", "MU", null ],
+		[ "E:/PostGraduate/c++/NetDisk/TcpClient/protocol.cpp", "MU", null ],
+		[ "E:/PostGraduate/c++/NetDisk/TcpClient/tcpclient.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
